@@ -1,16 +1,14 @@
-## Hi there 👋
+## Scott Dinwiddie
 
-<!--
-**sddinwid/sddinwid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Software Engineer focused on building scalable systems using Node.js, TypeScript, and PostgreSQL.
 
-Here are some ideas to get you started:
+Recently working on:
+- Retrieval-Augmented Generation (RAG) systems
+- AI workflow orchestration and agent pipelines
+- Vector search with pgvector
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projects:
+- AI Knowledge Search Platform — full-stack RAG system
+- Agents4 — AI workflow orchestration platform
+
+Open to Backend and Software Engineering roles.
