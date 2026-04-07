@@ -1,16 +1,16 @@
 ## Scott Dinwiddie
 
-Software Engineer focused on backend and fullstack systems using Kotlin, TypeScript, and Python.
+Backend-focused Software Engineer building distributed systems and scalable backend services using Python and TypeScript.
 
-Experience building APIs, data-driven systems, and production-ready applications across multiple stacks.
+Experience designing APIs, event-driven systems, and data workflows, with a focus on performance, reliability, and system architecture.
 
 Recently working on:
-- Fullstack systems with Kotlin (Spring Boot) and React
-- REST APIs, relational data modeling, and service architecture
+- Backend systems and APIs using Python, TypeScript, and Node.js
+- Distributed workflows, data pipelines, and service architecture
 - Retrieval-Augmented Generation (RAG) systems and vector search
 
 Projects:
-- OpsPilot — fullstack operations and workflow system (Kotlin, Spring Boot, React, PostgreSQL)
-- AI Knowledge Search Platform — full-stack RAG system
+- OpsPilot — backend-driven workflow and operations system
+- AI Knowledge Search Platform — RAG-based retrieval and processing system
 
-Open to Backend and Fullstack Software Engineering roles.
+Open to Backend Software Engineering roles.
